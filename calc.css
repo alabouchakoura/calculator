@@ -55,7 +55,7 @@ body{
     justify-content: center;
     background-color: rgb(190, 225, 255);
     align-items: center;
-    transform: scale(0.33);
+    transform: scale(0.4);
     transform-origin: top left;
     width: 300%;
 }
